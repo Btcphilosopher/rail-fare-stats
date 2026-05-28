@@ -1,0 +1,6 @@
+{
+  "name": "Statistical Rail Fare Optimisation Model",
+  "description": "An interactive statistical R-inspired transport economics engine that predicts UK rail ticket pricing, searches for split-ticketing arbitrage, and builds predictive price-demand models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
